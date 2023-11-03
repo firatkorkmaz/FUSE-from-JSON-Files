@@ -1,0 +1,36 @@
+{
+    "class": {
+        "operatingsystems": {
+            "students": {
+                "student1":"121212121",
+                "student2":"232323232",
+                "student3":"343434343"
+            }
+        },
+        "systemprogramming": {
+            "students": {
+                "student1":"111111111",
+                "student3":"222222222",
+                "student4":"333333333"
+            },
+            "teachers": {
+                "firstteacher":"123456789",
+                "secondteacher":"987654321"
+            }
+        }
+    },
+    "club": {
+        "football": {
+            "students": {
+                "student1":"232323232",
+                "student2":"111111111"
+            }
+        },
+        "basketball": {
+            "students": {
+                "student1":"333333333",
+                "student2":"121212121"
+            }
+        }
+    }
+}
